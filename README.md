@@ -1,6 +1,6 @@
 ## EasY_HaCk
 1. Hack the World using Termux
-this tool is a developed by sabri.zaki for penetration testing using 
+this tool is a developed by cyber kallan for penetration testing using 
 2. metasploit-framework 
 3. sqlmap 
 4. nmap 
@@ -14,12 +14,12 @@ all that on Termux
 1. `pkg update`
 2. `pkg upgrade`
 3. `pkg install git`
-4. `git clone https://github.com/sabri-zaki/EasY_HaCk`
+4. `git clone https://github.com/cyberkallan/Easyhack-CK
 5. cd EasY_HaCk/
 6. `chmod +x install.sh`
 7. Type `EasY-HaCk`
 
-![](.modules/EasY_HaCk.png)
+![]![PicsArt_10-15-03 36 27](https://user-images.githubusercontent.com/56509491/66862492-9e423d80-efae-11e9-8b2f-004d5381297a.png)
 
 ## [ USAGE ]:
 {1}-Payload Generator
@@ -44,7 +44,7 @@ To update the Tool choose option number `10`
 
 ## [My YouTube Channel]
 
-🔘 https://youtube.com/c/sabrizaki
+🔘 https://www.youtube.com/channel/UClOU5rN6W_YBEOVQfrkqhmA
 
 
 
