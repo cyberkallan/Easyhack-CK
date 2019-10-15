@@ -25,7 +25,7 @@ sleep 0.5
 echo -e $yellow
 figlet -f big "Cyber Kallan"
 
-echo -e "                   $g"Alpha"$r"Team"$w"DZ"" 
+echo -e "                   $g"Mallu"$r"Hacker"$w"KL 18"" 
 echo -e "$a              # # # # # # # # # # # #"
 echo -e "$a              #$G                     $o$a#"
 echo -e "$a              #$G    $r"EasY_HaCk  V3.2"$a   $o$a#"
@@ -33,12 +33,12 @@ echo -e "$a              #$G                     $o$a#"
 echo -e "$a              # # # # # # # # # # # #"
 echo
 echo -e "  $G1$w Welcome to This Tool For Penetration Testing $o" 
-echo -e $o"$green               coded by$cyber kallan "$o
+echo -e $o"$green               coded by$ cyber kallan "$o
 echo -e " $g          Instagram : arz_beats "
 echo " "
 echo -e "              $red Press ENTER to Continue"
 echo -e $yellow
-echo -n -e "[EasY_HaCk]~#:"
+echo -n -e "[Cyber Kallan]~#:"
 sleep 2
 read tmp
 echo -e " "
@@ -67,7 +67,7 @@ sleep 0.1
 echo -e "$a      [$w"XX"$a"]"$g EXIT $reset"
 sleep 0.5
 echo -e $yellow
-echo -n $B "[EasY_HaCk]~#:"
+echo -n $B "[Cyber kallan]~#:"
 read option
 if [[ $option == "" ]];
 then
@@ -410,7 +410,7 @@ clear
 echo "EXIT EASY HACK TOOL...............\ "
 sleep 0.1
 clear
-echo -e "\033[1;91mzaki cyber kallan  wish you all the best ♡ you all "
+echo -e "\033[1;91m cyber kallan  wish you all the best ♡ you all "
 sleep 3
 clear 
 exit
