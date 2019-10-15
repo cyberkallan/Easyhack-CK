@@ -33,8 +33,8 @@ echo -e "$a              #$G                     $o$a#"
 echo -e "$a              # # # # # # # # # # # #"
 echo
 echo -e "  $G1$w Welcome to This Tool For Penetration Testing $o" 
-echo -e $o"$green               coded by$cyber kalaln (mallu youtuber) "$o
-echo -e " $g          Instagram :  arz_beats "
+echo -e $o"$green               coded by$cyber kallan "$o
+echo -e " $g          Instagram : arz_beats "
 echo " "
 echo -e "              $red Press ENTER to Continue"
 echo -e $yellow
@@ -86,7 +86,7 @@ EasY_HaCk
 
 about()
 {
-echo -e "$green                    EasY_HaCk $yellow
+echo -e "$green                    CYBER KALLAN $yellow
 
 This tool is to provide easy user interface 
 My aim behind this tool is to make penetration testing easy 
@@ -94,7 +94,7 @@ like payload creation, metasploit installation,
 ngrok installation, network scanning and Websites Hacking 
 & Wait for my updates of$r EasY_HaCk$yellow tool 
 with some extra features and options and all 
-CREDITS GOES TO$g SABRi$yellow"@"$green"ZAKI"$yellow from $g"Alpha"$r"Team"$w"DZ"$r (o_O)$reset"
+CREDITS GOES TO$g cyber kallan$yellow"@"$green"ZAKI"$yellow from $g"Alpha"$r"Team"$w"DZ"$r (o_O)$reset"
 echo
 echo -e "$red                    press ENTER"
 echo -n "[EasY_HaCk]~#:"
@@ -145,7 +145,7 @@ echo -e "$green ********** Do You Want to Contact Me ? **********"
 echo -e "$r                     press ENTER$reset"
 echo -n "[EasY_HaCk]~#:"
 read tmp4
-echo -e "$w My Facebook ID> $yellow www.facebook.com/sabri.zaki.31"
+echo -e "$w My Facebook ID> $yellow m.facebook.com/arjun.arjunmandarathur"
 echo -e "$red               $ENTER$reset"
 echo -n "[EasY_HaCk]~#:"
 read tmp5
@@ -410,7 +410,7 @@ clear
 echo "EXIT EASY HACK TOOL...............\ "
 sleep 0.1
 clear
-echo -e "\033[1;91mzaki sabri  wish you all the best ♡ you all "
+echo -e "\033[1;91mzaki cyber kallan  wish you all the best ♡ you all "
 sleep 3
 clear 
 exit
