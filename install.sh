@@ -17,9 +17,9 @@ figlet -f small installation
 sleep 1
 figlet -f small '0f'
 sleep 1
-figlet -f small EasY HaCk
+figlet -f small Cyber Kallan
 sleep 1
-figlet -f small Framwork
+figlet -f small Easy_Hack
 sleep 1
 echo $W "Installing requirements........"$G
 apt-get install curl -y
