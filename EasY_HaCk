@@ -23,7 +23,7 @@ o='\033[0m'
 #banner
 sleep 0.5
 echo -e $yellow
-figlet -f big "EasYHaCk"
+figlet -f big "Cyber Kallan"
 
 echo -e "                   $g"Alpha"$r"Team"$w"DZ"" 
 echo -e "$a              # # # # # # # # # # # #"
@@ -33,8 +33,8 @@ echo -e "$a              #$G                     $o$a#"
 echo -e "$a              # # # # # # # # # # # #"
 echo
 echo -e "  $G1$w Welcome to This Tool For Penetration Testing $o" 
-echo -e $o"$green               Made by$yellow SABRI ZAKI "$o
-echo -e " $g          Developers Team :  Emad Fakhry "
+echo -e $o"$green               coded by$cyber kalaln (mallu youtuber) "$o
+echo -e " $g          Instagram :  arz_beats "
 echo " "
 echo -e "              $red Press ENTER to Continue"
 echo -e $yellow
