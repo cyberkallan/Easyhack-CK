@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 echo "/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/"
-echo " HELLO MY FRIENDS I AM SABRI ZAKI FROM ALGERIA I WRITE THIS SCRIPT TO HELP YOU IN THE PROCESS OF INSTALLING METASPLOIT FRAMEWORK AND I WISH TO US IT FOR GOOD AND AM NOT RESPONSIBLE FOR YOUR BADE USING AND THANKS "
+echo " HELLO MY FRIENDS I AM CYBER KALLAN FROM KERALA I WRITE THIS SCRIPT TO HELP YOU IN THE PROCESS OF INSTALLING METASPLOIT FRAMEWORK AND I WISH TO US IT FOR GOOD AND AM NOT RESPONSIBLE FOR YOUR BADE USING AND THANKS "
 echo "/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/"
 sleep 5
 cwd=$(pwd)
@@ -77,11 +77,11 @@ echo "/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/"
 echo 
 clear
 echo "/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/"
-echo " SABRI ZAKI FROM ALPHA DZ TEAM WAS HEAR "
+echo " CYBER KALLAN FROM KERALA ARZ TEAM WAS HEAR "
 echo "/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/"
 echo
 echo "/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/"
-echo "                    ALGERIAN HACKERS "
+echo "                             MALLU  HACKERS v 2.0 "
 echo "/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/#/"
 sleep 5
 echo "wait for metasploit to start........"
