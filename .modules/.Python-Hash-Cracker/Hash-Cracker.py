@@ -13,7 +13,7 @@ import sys
 import os
 import time
 print "  "
-print "Python Hash-Cracker"
+print " Hash-Cracker by cyber kallan"
 print "Version 3.0-3 Stable"
 
 
